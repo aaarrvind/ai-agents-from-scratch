@@ -55,7 +55,7 @@ This series is perfect for:
 
 ## 👋 Author
 
-Hi! I'm [Your Name], a self-taught developer exploring AI agents and sharing what I learn.
+Hi! I'm [Aravind], a self-taught developer exploring AI agents and sharing what I learn.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aaarrvind/)
 - ✉️ [Email](aravindvinod050@gmail.com)
