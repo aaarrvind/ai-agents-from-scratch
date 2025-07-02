@@ -1,4 +1,5 @@
-# 🤖 Build AI Agents from Scratch
+![Build AI Agents Banner](link-to-your-banner-image)
+
 
 Welcome to **Build AI Agents from Scratch** — a self-authored, hands-on tutorial series where we build real AI agents using **Python**, **LangChain**, **OpenAI**, and modern cloud tools.
 
