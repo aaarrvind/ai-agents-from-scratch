@@ -1,4 +1,4 @@
-![Build AI Agents Banner](YouTube Banner - Build AI Agents from Scratch (2).png)
+![Build AI Agents Banner]([YouTube Banner - Build AI Agents from Scratch (2).png](https://github.com/aaarrvind/ai-agents-from-scratch/blob/main/YouTube%20Banner%20-%20Build%20AI%20Agents%20from%20Scratch%20(2).png))
 
 
 Welcome to **Build AI Agents from Scratch** — a self-authored, hands-on tutorial series where we build real AI agents using **Python**, **LangChain**, **OpenAI**, and modern cloud tools.
